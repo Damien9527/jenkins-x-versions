@@ -7,11 +7,11 @@ repositories:
       - https://charts.jetstack.io
   - prefix: jenkins-x
     urls:
-      - https://storage.googleapis.com/chartmuseum.jenkins-x.io
+      - https://kubernetes.oss-cn-hangzhou.aliyuncs.com/charts
       - http://chartmuseum.jenkins-x.io
   - prefix: stable
     urls:
-      - https://kubernetes-charts.storage.googleapis.com
+      - https://kubernetes.oss-cn-hangzhou.aliyuncs.com/charts
   - prefix: flagger
     urls:
       - https://flagger.app

@@ -46,7 +46,7 @@ cd boot-source
 
 # TODO hack until we fix boot to do this too!
 helm init --client-only
-helm repo add jenkins-x https://storage.googleapis.com/chartmuseum.jenkins-x.io
+helm repo add jenkins-x https://kubernetes.oss-cn-hangzhou.aliyuncs.com/charts
 
 
 jx step bdd \
